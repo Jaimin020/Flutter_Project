@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "984658216841",
+    "firebase_url": "https://edutalk-ae85a.firebaseio.com",
+    "project_id": "edutalk-ae85a",
+    "storage_bucket": "edutalk-ae85a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984658216841:android:0ca51fa3c4bf387f468358",
+        "android_client_info": {
+          "package_name": "com.example.edutalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984658216841-ur0q2g42m4pbaf1i6mk0r3pnto3m0fem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.edutalk",
+            "certificate_hash": "49cbca09db518c8d950b38dbd83ac7e346ed6a47"
+          }
+        },
+        {
+          "client_id": "984658216841-s8j2d10tg04djrhfog83oembvbu14nev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhk2rVMrlNrlLvugx3OXZNZpcFoe8OJEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984658216841-s8j2d10tg04djrhfog83oembvbu14nev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
